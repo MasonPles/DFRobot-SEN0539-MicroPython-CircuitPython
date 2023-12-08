@@ -39,5 +39,5 @@ Code was modified from DFRobot's ( https://github.com/DFRobot/DFRobot_DF2301Q ) 
 
 ## Credits
 
-Original code written by qsjhyy ( yihuan.huang@dfrobot.com ), 2022. Conversion by Mason Plested( https://github.com/MasonPles ), 2023.
+Original code written by qsjhyy ( yihuan.huang@dfrobot.com ), 2022. Conversion by Mason Plested ( https://github.com/MasonPles ), 2023.
 
