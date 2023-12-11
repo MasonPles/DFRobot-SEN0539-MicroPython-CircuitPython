@@ -1,4 +1,4 @@
-# DFRobot SEN0539 Micro/CircuitPython
+# DFRobot SEN0539-EN Micro/CircuitPython
 
 <img src="/Images/board.png" width=30%>
 
@@ -6,7 +6,7 @@
 
 
 
-Modification of the library for DFRobot's SEN0539 (DF2301Q) Voice Recognition module to MicroPython and CircuitPython for use with the Raspberry Pi Pico (RP2040)
+Modification of the library for DFRobot's SEN0539-EN (DF2301Q) Voice Recognition module to MicroPython and CircuitPython for use with the Raspberry Pi Pico (RP2040)
 
 Code was modified from DFRobot's ( https://github.com/DFRobot/DFRobot_DF2301Q ) Raspberry Pi Python code to work with both CircuitPython and MicroPython. UART code was not included because I only needed I2C and so didn't bother porting the UART interface. This was a fast conversion so there's bound to be bugs and things done incorrectly, but I saw quite a few people online looking for this and figured I might be able to speed up someone's project.
 
